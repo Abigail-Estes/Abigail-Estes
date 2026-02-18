@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi! I'm a cybersecurity student learning the fundamentals, building hands-on skills, and documenting my journey along the way. I'm always open to guidance on the skills, knowledge, and tools that will help me grow in this field. 
 
-<!--
-**Abigail-Estes/Abigail-Estes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Building Skills
 
-Here are some ideas to get you started:
+Python • Linux • Bash • PowerShell • Wireshark • Nmap
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Learning
+
+Operating Systems • Networking • Security • Cloud • Scripting & Automation 
+
+## 📚Education
+
+B.S. Cybersecurity • Expected Graduation: 2028
+
+## 📫 Contact
+
+abigailestes2@gmail.com
